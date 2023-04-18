@@ -12,13 +12,14 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+
 @Service
 @Transactional
 public class SEducacion {
     @Autowired
     REducacion rEducacion;
     
-    public List<Educacion> list(){
+    public List<Educacion> list() {
         return rEducacion.findAll();
     }
     
@@ -38,12 +39,11 @@ public class SEducacion {
         rEducacion.deleteById(id);
     }
     
-    public boolean existById(int id){
+    public boolean existsById(int id){
         return rEducacion.existsById(id);
     }
     
     public boolean existsByNombreE(String nombreE){
         return rEducacion.existsByNombreE(nombreE);
     }
-    
 }
