@@ -1,4 +1,6 @@
+com\portfolio\gna\Service\Shys.class
 com\portfolio\gna\Service\SExperiencia.class
+com\portfolio\gna\Entity\hys.class
 com\portfolio\gna\Security\Service\RolService.class
 com\portfolio\gna\Security\Dto\LoginUsuario.class
 com\portfolio\gna\Security\Service\UsuarioService.class
@@ -20,6 +22,7 @@ com\portfolio\gna\Entity\Educacion.class
 com\portfolio\gna\Security\jwt\JwtProvider.class
 com\portfolio\gna\Service\ImpPersonaService.class
 com\portfolio\gna\Security\jwt\JwtTokenFilter.class
+com\portfolio\gna\Repository\Rhys.class
 com\portfolio\gna\Controller\CExperiencia.class
 com\portfolio\gna\Security\Entity\Usuario.class
 com\portfolio\gna\Security\Service\UserDetailsImpl.class
@@ -28,6 +31,8 @@ com\portfolio\gna\Security\Entity\UsuarioPrincipal.class
 com\portfolio\gna\GnaApplication.class
 com\portfolio\gna\Repository\REducacion.class
 com\portfolio\gna\Security\jwt\JwtEntryPoint.class
+com\portfolio\gna\Controller\Chys.class
+com\portfolio\gna\Dto\Dtohys.class
 com\portfolio\gna\Repository\RExperiencia.class
 com\portfolio\gna\Security\Repository\iUsuarioRepository.class
 com\portfolio\gna\Dto\DtoEducacion.class
