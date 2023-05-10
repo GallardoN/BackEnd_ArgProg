@@ -2,6 +2,7 @@ C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\po
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Controller\Chys.java
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Dto\DtoEducacion.java
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Security\jwt\JwtProvider.java
+C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Dto\DtoPersona.java
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Security\Entity\UsuarioPrincipal.java
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Service\SEducacion.java
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Security\Dto\JwtDto.java
@@ -13,7 +14,6 @@ C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\po
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Entity\Experiencia.java
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Security\Service\UserDetailsImpl.java
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Repository\IPersonaRepository.java
-C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Interface\IPersonaService.java
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Repository\Rhys.java
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Security\Service\RolService.java
 C:\Users\Usuario\Desktop\Argentina Programa\BackEnd_ArgProg\src\main\java\com\portfolio\gna\Controller\CEducacion.java

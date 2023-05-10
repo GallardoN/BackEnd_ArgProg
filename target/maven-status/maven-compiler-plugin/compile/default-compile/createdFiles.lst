@@ -13,7 +13,6 @@ com\portfolio\gna\Security\Enums\RolNombre.class
 com\portfolio\gna\Security\Repository\RolRepository.class
 com\portfolio\gna\Dto\DtoExperiencia.class
 com\portfolio\gna\Security\Dto\NuevoUsuario.class
-com\portfolio\gna\Interface\IPersonaService.class
 com\portfolio\gna\Repository\IPersonaRepository.class
 com\portfolio\gna\Controller\PersonaController.class
 com\portfolio\gna\Security\Controller\AuthController.class
@@ -36,4 +35,5 @@ com\portfolio\gna\Dto\Dtohys.class
 com\portfolio\gna\Repository\RExperiencia.class
 com\portfolio\gna\Security\Repository\iUsuarioRepository.class
 com\portfolio\gna\Dto\DtoEducacion.class
+com\portfolio\gna\Dto\DtoPersona.class
 com\portfolio\gna\Entity\Experiencia.class
