@@ -15,8 +15,6 @@ public class DtoPersona {
     private String apellido;
     @NotBlank
     private String descripcion;
-    @NotBlank
-    private String img;
     
     //Constructor
 
@@ -27,7 +25,6 @@ public class DtoPersona {
         this.nombre = nombre;
         this.apellido = apellido;
         this.descripcion = descripcion;
-        this.img = img;
     }
     
     //Getter y Setter 
@@ -55,14 +52,4 @@ public class DtoPersona {
     public void setDescripcion(String descripcion) {
         this.descripcion = descripcion;
     }
-
-    public String getImg() {
-        return img;
-    }
-
-    public void setImg(String img) {
-        this.img = img;
-    }
-    
-    
 }

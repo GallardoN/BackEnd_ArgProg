@@ -24,7 +24,6 @@ public class Persona {
     @NotNull
     private String descripcion;
     
-    private String img;
     
     
     
@@ -37,7 +36,6 @@ public class Persona {
         this.nombre = nombre;
         this.apellido = apellido;
         this.descripcion = descripcion;
-        this.img = img;
     }
     
     //Getter y Setter
@@ -72,15 +70,5 @@ public class Persona {
 
     public void setDescripcion(String descripcion) {
         this.descripcion = descripcion;
-    }
-
-    public String getImg() {
-        return img;
-    }
-
-    public void setImg(String img) {
-        this.img = img;
-    }
-    
-    
+    }   
 }
